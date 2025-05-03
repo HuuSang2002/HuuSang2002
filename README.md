@@ -38,7 +38,7 @@
 
 - 📧 Email: **nguyenhuusang.dev@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/nguyenhuusang](https://www.linkedin.com)
-- 🌐 Portfolio (nếu có): [nguyenhuusang.dev](https://your-portfolio-link.com)
+- 🌐 Portfolio (nếu có): [nguyenhuusang.dev](https://huusang2002.github.io/Web_HS/)
 
 ---
 
