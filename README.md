@@ -1,37 +1,35 @@
-# Hello there! 👋 I'm [Your Name]
+# 👋 Xin chào, tôi là Trí (Itatri)
 
-[![GitHub followers](https://img.shields.io/github/followers/Itatri?style=social)](https://github.com/Itatri)
-[![GitHub stars](https://img.shields.io/github/stars/Itatri?style=social)](https://github.com/Itatri)
+![Welcome Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-💻 Passionate Developer | 🌐 Open Source Enthusiast | 🚀 Continuous Learner
+## 🚀 Giới thiệu
 
-## 🛠️ Technologies & Tools
+Tôi là một nhà phát triển phần mềm đam mê công nghệ, bắt đầu hành trình mã hóa từ năm 2024. Hiện tại, tôi đang làm việc tại **ANBS Business Solution** tại Thành phố Hồ Chí Minh.
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+- 🌐 Trang web cá nhân: [portfo-itatri-zero.vercel.app](https://portfo-itatri-zero.vercel.app)
+- 📍 Địa điểm: Thành phố Hồ Chí Minh, Việt Nam
+- 🏆 Thành tựu: Quickdraw x3, YOLO
 
-## 📊 GitHub Stats
+## 🛠️ Kỹ năng
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Itatri&show_icons=true&theme=radical)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itatri&layout=compact&theme=radical)
+## 📈 Thống kê GitHub
 
-## 🌱 Current Projects
+![Thống kê GitHub của Itatri](https://github-readme-stats.vercel.app/api?username=Itatri&show_icons=true&theme=radical)
+![Ngôn ngữ phổ biến nhất](https://github-readme-stats.vercel.app/api/top-langs/?username=Itatri&layout=compact&theme=radical)
 
-- [Project 1 Name](link-to-repo) - Short description
-- [Project 2 Name](link-to-repo) - Short description
-- [Project 3 Name](link-to-repo) - Short description
+## 🌐 Mạng xã hội
 
-## 📫 How to reach me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yourprofile)
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+---
 
-## ⚡ Fun Fact
-
-[Place a fun fact about yourself here!]
+> "Code là nghệ thuật và tôi là nghệ sĩ." 🎨
