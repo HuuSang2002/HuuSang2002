@@ -5,7 +5,6 @@
 
 ## 🌟 Giới thiệu nhanh
 > "Code là nghệ thuật, debug là cuộc sống"  
-> Lập trình viên trẻ với 2+ năm kinh nghiệm phát triển ứng dụng **WinForms** và hệ thống quản lý dữ liệu. Đam mê tạo ra sản phẩm có UI/UX tốt và hiệu năng cao.
 
 - 🌱 Hiện đang mở rộng sang **.NET Core** và **Frontend Development**
 - 💼 Kinh nghiệm đa dạng từ CRUD apps đến hệ thống quản lý phức tạp
