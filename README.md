@@ -56,11 +56,11 @@ Dưới đây là phần **"Các Kỹ Năng"** bạn yêu cầu, đã **kết h�
 
 ### 🧩 Lập trình cơ bản & Giải thuật
 
-* Biết sử dụng C/C++
+* Biết sử dụng C/C++   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
 * Hiểu và áp dụng thuật toán tìm kiếm, sắp xếp:
 
   * 🔍 Tìm kiếm nhị phân (Binary Search)
-  * 🔄 Sắp xếp đổi chỗ (Interchange Sort), sắp xếp chọn (Selection Sort) -- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
+  * 🔄 Sắp xếp đổi chỗ (Interchange Sort), sắp xếp chọn (Selection Sort) 
 
 ### 🛠 Thiết kế & Phân tích hệ thống
 
