@@ -17,13 +17,13 @@
 ---
 
 ## 🌟 Giới thiệu nhanh
-> "Code là nghệ thuật, debug là cuộc sống"  
+> "Code là nghệ thuật, debug là cuộc sống"
 
-- 🌱 Hiện đang mở rộng sang **.NET Core** và **Frontend Development**
-- 💼 Kinh nghiệm đa dạng từ CRUD apps đến hệ thống quản lý phức tạp
-- 🎨 Yêu thích thiết kế giao diện người dùng trực quan, thân thiện
-- 🚀 Mục tiêu 2024: Làm chủ MERN Stack và phát triển ứng dụng AI
-- ⚡ Fun fact: Có thể code liên tục 8 tiếng chỉ với 1 tách cà phê
+- 🌱 Hiện đang mở rộng kỹ năng với **.NET Core**, **Frontend Development** và **phần cứng máy tính**
+- 💼 Kinh nghiệm thực tế từ ứng dụng CRUD đến hệ thống quản lý tích hợp đa tầng
+- 🎨 Đam mê thiết kế giao diện trực quan, thân thiện và tối ưu trải nghiệm người dùng
+- 🚀 Mục tiêu 2025: Thành thạo **MERN Stack**, nâng cao chuyên môn **AI ứng dụng**, và **kỹ thuật phần cứng**
+- ⚡ Fun fact: Có thể tập trung code 8 tiếng chỉ với 1 ly cà phê đen không đường 😄
 
 ---
 
