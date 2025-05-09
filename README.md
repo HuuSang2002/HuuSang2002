@@ -1,5 +1,18 @@
-# 👋 Xin chào! Tôi là **Nguyễn Hữu Sang**  
-🎯 *Fullstack Developer | Đam mê C# - SQL - WinForms - Web Development*
+# 👋 Xin chào! Tôi là **Nguyễn Hữu Sang**
+
+🎯 *Fullstack Developer | Đam mê lập trình và công nghệ*
+
+💻 **Kỹ năng phần mềm**:  
+- Ngôn ngữ: C#, SQL, JavaScript  
+- Công nghệ: WinForms, ASP.NET, HTML, CSS  
+- Phát triển Web: Frontend & Backend  
+
+🛠 **Kỹ năng phần cứng**:  
+- Lắp ráp và sửa chữa máy tính PC, laptop  
+- Khắc phục sự cố phần cứng và nâng cấp hệ thống  
+
+📌 Tôi luôn không ngừng học hỏi và hoàn thiện bản thân trong cả lập trình và kỹ thuật phần cứng.
+
 
 ---
 
