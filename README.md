@@ -67,13 +67,14 @@ Dưới đây là phần **"Các Kỹ Năng"** bạn yêu cầu, đã **kết h�
 
 * Sử dụng thành thạo IBM Rational Rose để thiết kế UML
 * Đã tiếp xúc với WinForms và mô hình phát triển hướng đối tượng
-  ![Rational Rose](https://img.shields.io/badge/-Rational_Rose-lightgrey?style=for-the-badge)
+
 
 ### 📊 Tin học văn phòng & Phần mềm đồ họa
 
 * Thành thạo Word, Excel, PowerPoint
 * Thiết kế với Figma, Photoshop, Illustrator, CapCut
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge\&logo=adobe-photoshop\&logoColor=white)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge\&logo=adobe-illustrator\&logoColor=white)
   ![CapCut](https://img.shields.io/badge/-CapCut-000000?style=for-the-badge\&logo=capcut\&logoColor=white)
