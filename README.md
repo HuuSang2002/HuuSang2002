@@ -47,6 +47,7 @@ Dưới đây là phần **"Các Kỹ Năng"** bạn yêu cầu, đã **kết h�
 * Quản trị CSDL với SQL Server, MySQL, MongoDB, Oracle
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+    ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
@@ -56,7 +57,7 @@ Dưới đây là phần **"Các Kỹ Năng"** bạn yêu cầu, đã **kết h�
 
 ### 🧩 Lập trình cơ bản & Giải thuật
 
-* Biết sử dụng C/C++   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
+* Biết sử dụng C/C++ 
 * Hiểu và áp dụng thuật toán tìm kiếm, sắp xếp:
 
   * 🔍 Tìm kiếm nhị phân (Binary Search)
