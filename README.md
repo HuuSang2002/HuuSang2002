@@ -26,30 +26,59 @@
 - ⚡ Fun fact: Có thể tập trung code 8 tiếng chỉ với 1 ly cà phê đen không đường 😄
 
 ---
+Dưới đây là phần **"Các Kỹ Năng"** bạn yêu cầu, đã **kết hợp giữa nội dung mô tả chuyên nghiệp và logo badge trực quan**, phù hợp hiển thị trong `README.md` GitHub:
 
-## 🛠️ Bộ công cụ của tôi
+---
+
+## 🧠 Kỹ Năng Chuyên Môn
+
+### 🎨 Frontend Development
+
+* Thành thạo HTML5, CSS3 (SCSS), JavaScript, Bootstrap
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ### 💻 Backend & Database
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-<!--![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)-->
 
-### 🌈 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<!--![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)-->
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+* Sử dụng thành thạo C#, Java, PHP cho xử lý logic phía server
+* Quản trị CSDL với SQL Server, MySQL, MongoDB, Oracle
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
+### 🧩 Lập trình cơ bản & Giải thuật
 
-### 🛠️ Công cụ & Platform
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+* Biết sử dụng C/C++
+* Hiểu và áp dụng thuật toán tìm kiếm, sắp xếp:
+
+  * 🔍 Tìm kiếm nhị phân (Binary Search)
+  * 🔄 Sắp xếp đổi chỗ (Interchange Sort), sắp xếp chọn (Selection Sort)
+    ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge\&logo=c%2b%2b\&logoColor=white)
+
+### 🛠 Thiết kế & Phân tích hệ thống
+
+* Sử dụng thành thạo IBM Rational Rose để thiết kế UML
+* Đã tiếp xúc với WinForms và mô hình phát triển hướng đối tượng
+  ![Rational Rose](https://img.shields.io/badge/-Rational_Rose-lightgrey?style=for-the-badge)
+
+### 📊 Tin học văn phòng & Phần mềm đồ họa
+
+* Thành thạo Word, Excel, PowerPoint
+* Thiết kế với Figma, Photoshop, Illustrator, CapCut
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge\&logo=adobe-photoshop\&logoColor=white)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge\&logo=adobe-illustrator\&logoColor=white)
+  ![CapCut](https://img.shields.io/badge/-CapCut-000000?style=for-the-badge\&logo=capcut\&logoColor=white)
+
+### 🧩 Phần cứng & Kỹ thuật PC
+
+* Kỹ năng lắp ráp, sửa chữa máy tính PC/laptop, cài đặt hệ điều hành & phần mềm
 
 ---
 
