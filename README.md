@@ -115,7 +115,6 @@ Dưới đây là phần **"Các Kỹ Năng"** bạn yêu cầu, đã **kết h�
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HuuSang.0912)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-làm instagram nữa
 
 💬 Luôn sẵn sàng cho các cơ hội hợp tác và dự án thú vị!
 
